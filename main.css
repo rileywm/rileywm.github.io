@@ -1,3 +1,14 @@
 body {
 	background-color: blue;
+	font-family: "Helvetica";
+	text-align:center;
+}
+h1 {
+	font-size:140pt;
+}
+p {
+	font-size:90pt;
+}
+img{
+	max-width: 250px;
 }
